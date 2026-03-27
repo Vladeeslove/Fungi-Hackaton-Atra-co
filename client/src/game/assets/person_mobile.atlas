@@ -1,0 +1,55 @@
+
+person_mobile.png
+size: 1528,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 220, 2
+  size: 225, 216
+  orig: 225, 216
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: true
+  xy: 438, 2
+  size: 225, 216
+  orig: 225, 216
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 656, 2
+  size: 225, 216
+  orig: 225, 216
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 874, 2
+  size: 225, 216
+  orig: 225, 216
+  offset: 0, 0
+  index: -1
+hvost
+  rotate: true
+  xy: 1092, 2
+  size: 225, 216
+  orig: 225, 216
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 1310, 2
+  size: 225, 216
+  orig: 225, 216
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 2, 2
+  size: 225, 216
+  orig: 225, 216
+  offset: 0, 0
+  index: -1

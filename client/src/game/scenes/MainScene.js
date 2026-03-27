@@ -5,10 +5,18 @@ export class MainScene extends Phaser.Scene {
     super('MainScene');
   }
 
+  preload() {
+
+    this.load.spine('person', './person.json', './person_desktop.atlas')
+
+  }
+
   create() {
     const { width, height } = this.scale;
 
     this.cameras.main.setBackgroundColor('#14213d');
+
+
 
     this.add.text(width * 0.5, 90, 'Main Game Scene', {
       fontFamily: 'Arial',

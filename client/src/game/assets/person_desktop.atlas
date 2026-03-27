@@ -1,0 +1,55 @@
+
+person_desktop.png
+size: 1792,870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 450, 432
+  orig: 450, 432
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 454, 436
+  size: 450, 432
+  orig: 450, 432
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 454, 2
+  size: 450, 432
+  orig: 450, 432
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 906, 436
+  size: 450, 432
+  orig: 450, 432
+  offset: 0, 0
+  index: -1
+hvost
+  rotate: false
+  xy: 906, 2
+  size: 450, 432
+  orig: 450, 432
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 1358, 418
+  size: 450, 432
+  orig: 450, 432
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 2, 436
+  size: 450, 432
+  orig: 450, 432
+  offset: 0, 0
+  index: -1
